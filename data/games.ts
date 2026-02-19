@@ -2,7 +2,7 @@ export const GAMES = [
   {
     id: '2048',
     title: '2048',
-    description: 'Join the numbers and get to the 2048 tile!',
+    description: 'Join the numbers and get to the 2048 tile! A classic addictive puzzle.',
     category: 'Puzzle',
     thumbnail: 'https://picsum.photos/seed/2048/400/250',
     iframeUrl: 'https://play2048.co/',
@@ -12,7 +12,7 @@ export const GAMES = [
   {
     id: 'tetris',
     title: 'Retro Block Puzzle',
-    description: 'Classic block-stacking puzzle game.',
+    description: 'Classic block-stacking puzzle game for ultimate nostalgia.',
     category: 'Classic',
     thumbnail: 'https://picsum.photos/seed/tetris/400/250',
     iframeUrl: 'https://tetris.com/play-tetris',
@@ -22,7 +22,7 @@ export const GAMES = [
   {
     id: 'slope',
     title: 'Neon Slope',
-    description: 'Speed down a steep neon slope. How long can you survive?',
+    description: 'Speed down a steep neon slope. Fast reflexes required!',
     category: 'Racing',
     thumbnail: 'https://picsum.photos/seed/slope/400/250',
     iframeUrl: 'https://ubg77.github.io/edit/slope/',
@@ -32,7 +32,7 @@ export const GAMES = [
   {
     id: 'crossy-road',
     title: 'Street Hopper',
-    description: 'Help the character cross busy streets and rivers.',
+    description: 'Help the character cross busy streets and treacherous rivers.',
     category: 'Arcade',
     thumbnail: 'https://picsum.photos/seed/crossy/400/250',
     iframeUrl: 'https://crossyroad.com/',
@@ -42,7 +42,7 @@ export const GAMES = [
   {
     id: 'chess',
     title: 'Master Chess',
-    description: 'Challenge the AI or a friend in a game of chess.',
+    description: 'Challenge the AI or a friend in the ultimate strategy game.',
     category: 'Strategy',
     thumbnail: 'https://picsum.photos/seed/chess/400/250',
     iframeUrl: 'https://www.chess.com/play/online',
@@ -52,7 +52,7 @@ export const GAMES = [
   {
     id: 'hextris',
     title: 'Hextris',
-    description: 'A fast-paced puzzle game inspired by Tetris.',
+    description: 'A fast-paced hexagonal puzzle game inspired by Tetris.',
     category: 'Puzzle',
     thumbnail: 'https://picsum.photos/seed/hextris/400/250',
     iframeUrl: 'https://hextris.io/',
@@ -62,7 +62,7 @@ export const GAMES = [
   {
     id: 'paperio',
     title: 'Paper.io 2',
-    description: 'Capture as much territory as possible and defeat your enemies.',
+    description: 'Capture territory and defeat your enemies in this IO classic.',
     category: 'Action',
     thumbnail: 'https://picsum.photos/seed/paperio/400/250',
     iframeUrl: 'https://paper-io.com/',
@@ -72,7 +72,7 @@ export const GAMES = [
   {
     id: 'tunnel-rush',
     title: 'Tunnel Rush',
-    description: 'Navigate through a rotating tunnel at high speeds.',
+    description: 'Navigate through a rotating tunnel at breakneck speeds.',
     category: 'Racing',
     thumbnail: 'https://picsum.photos/seed/tunnel/400/250',
     iframeUrl: 'https://tunnel-rush.io/',

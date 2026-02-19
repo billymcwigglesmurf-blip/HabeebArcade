@@ -1,0 +1,1 @@
+// Deprecated: Using GameCard.tsx.
